@@ -32,7 +32,7 @@ It’s lightweight, easy to understand, and doesn’t need any extra setup.
    ```bash
    cd path/to/your/folder
 
-```
+
 ---
 
 ## 🧠 Concepts Used
