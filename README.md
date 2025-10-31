@@ -58,7 +58,7 @@ It’s lightweight, easy to understand, and doesn’t need any extra setup.
 2. **User-defined Functions** → Created by the programmer using the `def` keyword (like `add_contact()`).
 ```
 **Syntax Example:**
-```python
+
 def function_name(parameters):
     # code block
     return value
